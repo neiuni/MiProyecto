@@ -8,7 +8,7 @@ MySql
 Apache
 Api Key de https://www.themoviedb.org Hay que registrase y usar la APIKEY que te suministran en su web. La documentqción de la api developers.themoviedb.org
 Plantilla bootstrap pagina publica Template Link : https://htmlcodex.com/renewable-energy-website-template READ-ME.txt
-Plantilla bootstrap pagina privada Start Bootstrap - SB Admin 2 admin/README.md
+Plantilla bootstrap pagina privada Start Bootstrap - 
 
 INSTALACION
 Descargar en fichero zip
