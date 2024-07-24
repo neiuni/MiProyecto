@@ -22,3 +22,6 @@ Acceder a la url
 FICHEROS DE CONFIGURACION
 Fichero peliculas.sql done estan todas las sentecias SQL PARA generar las tablas
 includes/config.php
+
+URL
+http://neike.infinityfreeapp.com/
