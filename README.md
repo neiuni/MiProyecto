@@ -1,26 +1,26 @@
 PROYECTO FINAL BACKEND
-proyecto final curso BACK, desarrorralo con PHP Y MYSQL
+proyecto final curso BACK, desarrorrado con PHP Y MYSQL
 https://github.com/neiuni/MiProyecto/
 
 REQUERIMIENTOS GENERALES
 PHP 7.4
 MySql
 Apache
-Api Key de https://www.themoviedb.org Hay que registrase y usar la APIKEY que te suministran en su web. La documentqción de la api developers.themoviedb.org
-Plantilla bootstrap pagina publica Template Link : https://htmlcodex.com/renewable-energy-website-template READ-ME.txt
-Plantilla bootstrap pagina privada Start Bootstrap - 
+Api Key de https://www.themoviedb.org Hay que registrase y usar la APIKEY que te suministran en su web. La documentación de la api developers.themoviedb.org
+Plantilla bootstrap página pública Template Link : https://htmlcodex.com/renewable-energy-website-template READ-ME.txt
+Plantilla bootstrap página privada Start Bootstrap - 
 
-INSTALACION
+INSTALACIÓN
 Descargar en fichero zip
 Clonar desde github
-crear BD peliculas en MySql mediante el fichero peliculas.sql
-Configurar el sitio en los ficheros de configuracion
+Crear BD peliculas en MySql mediante el fichero peliculas.sql
+Configurar el sitio en los ficheros de configuración
 Configuración BD
 Apikey de the moviedb.org
 Acceder a la url
 
-FICHEROS DE CONFIGURACION
-Fichero peliculas.sql done estan todas las sentecias SQL PARA generar las tablas
+FICHEROS DE CONFIGURACIÓN
+Fichero peliculas.sql donde están todas las sentecias SQL para generar las tablas
 includes/config.php
 
 URL
